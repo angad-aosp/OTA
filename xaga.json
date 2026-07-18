@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1781858358,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260618-UNOFFICIAL-xaga.zip",
+        "os_patch_level": "2026-06-01",
+        "os_sdk_level": 36,
+        "sha256": "REPLACE_WITH_THE_64_CHARACTER_SHA256_OF_THE_OTA_ZIP",
+        "size": 0,
+        "url": "https://example.com/lineage-23.2-20260618-UNOFFICIAL-xaga.zip"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
+  }
+]

@@ -8,7 +8,7 @@ assignees:
 ---
 
 ## Preface
-This is a bug tracker intended for consolidating issues for the Nothing 2A (Plus) community. **Keep in mind that the scope of this tracker only extends to the repositories we maintain in this organization.**
+This is a bug tracker for LineageOS builds for (xaga/xagan). **Keep in mind that the scope of this tracker only extends to the repositories we maintain in this organization.**
 
 Please check if there is an existing issue of your bug already present in this tracker to avoid duplicates.
 
@@ -16,6 +16,9 @@ Please check if there is an existing issue of your bug already present in this t
 
 - [ ] Are you using tools to provide root access? (Magisk, KernelSU etc.)
 - [ ] If yes, are you using any modules? (List them out below)
+- [ ] Am I using the unmodified, vanilla LineageOS build for xaga/xagan?
+
+Google Apps, root, kernel, and recovery-related reports are outside the scope of this tracker.
 
 ### Description
 
@@ -56,6 +59,7 @@ Mention if there any specific conditions, configurations, or circumstances that 
 Please confirm the following details about your device:
 
 *   **Device Model:**
+*   **Device Codename:** xaga / xagan
 *   **Android Version:**
 *   **ROM Name and Version:**
 *   **ROM Maintainer:**
